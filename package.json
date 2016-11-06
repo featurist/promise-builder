@@ -1,6 +1,6 @@
 {
   "name": "promise-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Builds up promises step by step",
   "main": "index.js",
   "directories": {
